@@ -13,11 +13,11 @@ branches:
     - /.*/
 
 notifications:
-  email: false
+  email: zandlconstructionllc@gmail.com/bossman742@icloud.com
 
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
-sudo: false
+sudo: true
 cache: bundler

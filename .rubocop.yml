@@ -5,13 +5,13 @@ AllCops:
     - vendor/**/*
 
 Metrics/LineLength:
-  Enabled: false
+  Enabled: TargetRubyVersion
 
 Metrics/MethodLength:
-  Enabled: false
+  Enabled: TargetRubyVersion
 
 Metrics/AbcSize:
-  Enabled: false
+  Enabled: TargetRubyVersion
 
 Style/Documentation:
-  Enabled: false
+  Enabled: TargetRubyVersion
